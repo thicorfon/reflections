@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git creates an empty repository and doesn't make any commits. We need to initialize a repository so we can start making commits.
