@@ -21,3 +21,8 @@ They are helpful when we have multiple changes to make and they are not really i
 How do the diagrams help you visualize the branch structure?
 
 Diagrams makes us visualize with great ease to which branch each commit belongs to.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+All the changes one branch made merge with the other branch changes. Because that commit now has 2 parents
