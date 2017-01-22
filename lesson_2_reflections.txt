@@ -5,3 +5,7 @@ Git creates an empty repository and doesn't make any commits. We need to initial
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It is different because it still can be changed before you make a commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Even if you make multiple logical changes in the working directory, you may only add the files that are part of one logical change to the stage area and, thus, only committing them.
