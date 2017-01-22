@@ -26,3 +26,8 @@ Diagrams makes us visualize with great ease to which branch each commit belongs 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 All the changes one branch made merge with the other branch changes. Because that commit now has 2 parents
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic mergins is easier and doesn't take any time at all. However, manually, you can be sure there all the chenges are the ones you really want.
