@@ -17,3 +17,8 @@ Forks are used when you want to clone another repository into your own GitHub ac
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 That way you can work offline and still know what's in the remote.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I'd problably keep sending archives through email or other means. It would be easier because it's not necessary to keep remembering all Git and GitHub details. However, more complex projects and larger archives, it would be very harder to keep sending files via email.
