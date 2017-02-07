@@ -22,3 +22,8 @@ That way you can work offline and still know what's in the remote.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I'd problably keep sending archives through email or other means. It would be easier because it's not necessary to keep remembering all Git and GitHub details. However, more complex projects and larger archives, it would be very harder to keep sending files via email.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When I'm working on features, and I don't want to make them on master because I don't know if the will work or if I'm going to keep them.
