@@ -27,3 +27,7 @@ I'd problably keep sending archives through email or other means. It would be ea
 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
 
 When I'm working on features, and I don't want to make them on master because I don't know if the will work or if I'm going to keep them.
+
+----
+
+Teste Windows
